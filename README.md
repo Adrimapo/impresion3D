@@ -1,4 +1,4 @@
-# Mecatronica-2023-2024
+# Bitácora impresión 3D
 
 This is the mechatronics subject wiki, where I will document my progress in the course. 
 
